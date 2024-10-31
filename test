@@ -1,1 +1,2 @@
-oklm
+#display the output
+print("oklm")
